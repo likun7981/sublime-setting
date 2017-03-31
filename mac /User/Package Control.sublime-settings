@@ -5,18 +5,22 @@
 	],
 	"installed_packages":
 	[
+		"AutoFileName",
 		"Babel",
-		"Chain of Command",
 		"ColorPicker",
+		"DocBlockr",
+		"EJS",
 		"Emmet",
 		"HTML-CSS-JS Prettify",
 		"LESS",
+		"MarkdownEditing",
 		"Package Control",
-		"ReactJS",
 		"Sass",
+		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
 		"Terminal",
-		"Theme - Soda"
+		"Theme - Soda",
+		"Vue Syntax Highlight"
 	]
 }
